@@ -6,6 +6,7 @@ Este repositorio contiene actividades y ejercicios de bases de datos SQL.
 
 - [Clase 02 ](Clase02.sql)
 - [Clase 04 ](Clase04.sql)
+- [Clase 06 ](#Class 06 Subqueries en el Where.sql)
 
 ## Descripción
 
