@@ -4,8 +4,9 @@ Este repositorio contiene actividades y ejercicios de bases de datos SQL.
 
 ## Índice de Actividades
 
-- [Clase 02 ](Clase02.sql)
-- [Clase 04 ](Clase04.sql)
+- [Clase 02](Clase02.sql)
+- [Clase 04](Clase04.sql)
+- [Clase 06 - Subqueries en el Where](`#Class 06 Subqueries en el Where.sql`)
 
 ## Descripción
 
