@@ -7,6 +7,7 @@ Este repositorio contiene actividades y ejercicios de bases de datos SQL.
 - [Clase 02](Clase02.sql)
 - [Clase 04](Clase04.sql)
 - [Clase 06 - Subqueries en el Where](https://github.com/SantiagoSalvay/BD_2/blob/main/%23Class%2006%20Subqueries%20en%20el%20Where.sql)
+- [Clase 07 - ALL-ANY](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase07-ALL-ANY.sql)
 
 ## Descripción
 
@@ -19,4 +20,4 @@ Este proyecto contiene scripts SQL desarrollados durante el curso de bases de da
 
 ### Contacto
 
-Para cualquier consulta relacionada con estas actividades, por favor contactar al administrador del repositorio. 
+Para cualquier consulta relacionada con estas actividades, por favor contactar al administrador del repositorio.
