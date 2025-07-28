@@ -14,15 +14,3 @@ Este repositorio contiene actividades y ejercicios de bases de datos SQL.
 
 
 
-## Descripción
-
-Este proyecto contiene scripts SQL desarrollados durante el curso de bases de datos, organizados por clases.
-
-### Requisitos
-
-- Sistema gestor de bases de datos compatible con SQL
-- Editor de código para SQL
-
-### Contacto
-
-Para cualquier consulta relacionada con estas actividades, por favor contactar al administrador del repositorio.
