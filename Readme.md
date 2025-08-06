@@ -10,8 +10,5 @@ Este repositorio contiene actividades y ejercicios de bases de datos SQL.
 - [Clase 07 - ALL-ANY](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase07-ALL-ANY.sql)
 - [Clase 09 - Ejercicios Agregaciones](https://github.com/SantiagoSalvay/BD_2/blob/main/%23Class%2009%20Ejercicios%20agregations.sql)
 - [Clase 11 - Ejercicios - Sentencia JOIN](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase11.sql)
+- [Clase 13 - Data Modification Statements](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase13.sql)
 - [Clase 15 - Views](https://github.com/SantiagoSalvay/BD_2/blob/main/Views.sql)
-
-
-
-
