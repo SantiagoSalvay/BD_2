@@ -14,6 +14,10 @@ Este repositorio contiene actividades y ejercicios de bases de datos SQL.
 - [Clase 14 - Functions](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase13.sql)
 - [Clase 15 - Views](https://github.com/SantiagoSalvay/BD_2/blob/main/Views.sql)
 - [Clase 16 - Constraints y Triggers](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase16.sql)
+- [Clase 17 - Índices ](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase17.sql)
+- [Clase 18 - Stored procedures](https://github.com/SantiagoSalvay/BD_2/blob/main/Clase18.sql)
+
+
 
 
 
